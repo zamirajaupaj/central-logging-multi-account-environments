@@ -2,6 +2,9 @@
 
 [![Join the chat at https://gitter.im/Zamira-Jaupaj/central-logging-multi-account-environments](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Zamira-Jaupaj/central-logging-multi-account-environments)
 
+
+![Architecture of Centralize Cross AWS Account](https://raw.githubusercontent.com/zamirajaupaj/central-logging-multi-account-environments/master/architecture/architecture.png)
+
 ### Requirements  
 * Minimum two AWS Accounts
 * Python 3.7
