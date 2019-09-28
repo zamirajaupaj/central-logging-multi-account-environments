@@ -9,11 +9,11 @@
 * Minimum two AWS Accounts
 * Python 3.7
 * Terraform 
-**[The link below](https://learn.hashicorp.com/terraform/getting-started/install.html)**
+**[Install](https://learn.hashicorp.com/terraform/getting-started/install.html)**
 
 ### AWS Account 
-* if you don't have yet an account on aws, you need an account to deploy lambda function
-**[The link below](https://aws.amazon.com/account/)**
+* For more information about 
+**[AWS Account](https://aws.amazon.com/account/)**
 
 ### Configuration of AWS CLI
 
